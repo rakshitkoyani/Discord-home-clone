@@ -1,4 +1,4 @@
-# Rode Landing Page clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Discord Homepage clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## features
 
@@ -12,7 +12,7 @@
    ![desktop size](./images/desktop.png)
 
 2. tablet size
-   ![tablet size](./images/tabletScreen.png)
+   ![tablet size](./images/tabletscreen.png)
 
 3. mobile size
    ![mobile size](./images/mobile.png)
